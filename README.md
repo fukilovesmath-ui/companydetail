@@ -1,1 +1,25 @@
-<!DOCTYPE html> <html lang="ja"> <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>雄島海運株式会社</title> <style> body { margin: 20px; background: transparent; font-family: sans-serif; color: #000; line-height: 1.6; } </style> </head> <body> 雄島海運株式会社<br> 〒701-3202<br> 岡山県備前市日生町寒河2430-26<br> TEL(Mobile): 080-1648-0171<br> Email: fuki.ojima@ojimarine.com<br> 代表取締役　雄島楓貴 </body> </html>
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>会社詳細情報</title>
+    <style>
+        body {
+            margin: 20px;
+            background: transparent;
+            font-family: sans-serif;
+            color: #000;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    雄島海運株式会社<br>
+    〒701-3202<br>
+    岡山県備前市日生町寒河2430-26<br>
+    TEL(Mobile): 080-1648-0171<br>
+    Email: fuki.ojima@ojimarine.com<br>
+    代表取締役　雄島楓貴
+</body>
+</html>
