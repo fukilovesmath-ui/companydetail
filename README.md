@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
@@ -19,6 +19,8 @@
     〒701-3202<br>
     岡山県備前市日生町寒河2430-26<br>
     TEL(Mobile): 080-1648-0171<br>
+    TEL（OFFICE）：<br>
+    FAX：<br>
     Email: fuki.ojima@ojimarine.com<br>
     代表取締役　雄島楓貴
 </body>
